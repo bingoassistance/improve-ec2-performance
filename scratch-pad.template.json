@@ -333,7 +333,7 @@
           "Ref": "SsmParameterValueawsserviceamiamazonlinuxlatestamzn2amihvmx8664gp2C96584B6F00A464EAD1953AFF4B05118Parameter"
         },
         "InstanceType": "t2.micro",
-        "KeyName": "virk",
+        "KeyName": "virginia",
         "Monitoring": false,
         "NetworkInterfaces": [
           {
